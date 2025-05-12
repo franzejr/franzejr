@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Software Engineer with 10+ years of experience building robust web applications, distributed systems, and cross-platform mobile solutions. Expertise in:
+
+— Web Development: Ruby, JavaScript, Python, Elixir
+— Mobile Development: React Native, Android, Flutter
+
 <!--
 **franzejr/franzejr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
